@@ -1,0 +1,6 @@
+# Ignore Patient Data
+experiment_data/
+*.dna
+
+# Ignore System Junk
+.DS_Store
